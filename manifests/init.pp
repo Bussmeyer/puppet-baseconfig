@@ -20,6 +20,6 @@ class baseconfig {
   }
 
   file { '/etc/motd':
-    content => "Welcome to the Bämm! VM!\nManaged by Vagrant and Puppet.\n----------------\nAliases:\nwww: Go to www directory\n----------------\n",
+    content => "Welcome to the undsoehne VM!\nManaged by Vagrant and Puppet.\n----------------\nAliases:\nwww: Go to www directory\n----------------\n",
   }
 }
